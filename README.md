@@ -2,4 +2,4 @@
 
 this is a personal program practice
 
-https://www.coursera.org/
+https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
